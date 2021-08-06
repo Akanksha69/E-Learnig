@@ -89,22 +89,22 @@ Support Team
 * Administration Training	Train personnel on LMS administration
 
 
-Low level requirement
+## Low level requirement
 
 *	User Login		    Username
-				            Password
+				    Password
 
 *	Course			      General Competition
-				            NEET
-				            IIT/JEE
-				            UPSC/State PSC
-				            10 th board
-				            12th board
-				            CAT/GRE
-				            Interview Preparation
+				      NEET
+				      IIT/JEE
+				      UPSC/State PSC
+				      10 th board
+				      12th board
+				      CAT/GRE
+				      Interview Preparation
 
-*	Study Materials 	Video content
-				            PDF/PPT
+*	Study Materials 		Video content
+				        PDF/PPT
 
 *	Feedback Mechanism
 *	Fee Details
