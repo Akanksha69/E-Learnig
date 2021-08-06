@@ -33,6 +33,8 @@
 * It sows activities of users and full description and flow of course
 
 ## SWOT Analysis 
+![SWOT-Analysis](Requirements/SWOT.png)
+
 
  
 
