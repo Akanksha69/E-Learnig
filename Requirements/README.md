@@ -32,13 +32,12 @@
 * User can search Course, view description, Update Course and delete 
 * It sows activities of users and full description and flow of course
 
-## SWOT Analysis 
-![SWOT-Analysis](Requirements/SWOT.png)
+## SWOT Analysis
+
+![SWOT-Analysis](https://github.com/Akanksha69/E-Learnig/blob/429322a1b8e99b9bfd9ee25676f690ae88364f6e/Requirements/SWOT.png)
 
 
  
-
-
 
 # 4W's and 1'H
 
