@@ -68,25 +68,7 @@ download application from the github
 
 ## High level requirement
 
-
-Hardware	
-* Server Type	- cloud server, dedicated server, or shared server
-* User Database and Concurrent Users	How many users will be accessing and how many may access the server at a time.
-* Bandwidth	a good bandwidth to help users’ access eLearning courses seamlessly
-* Other Server Configurations
-* * Core processors for the fast processing of requests
-* * RAM for quick Load balancing
-* * A hard-disc with enough space to upload eLearning courses
-* * Store training information in the database
-
-Software
-
-* Cross platform application
-* Learning Management System
-
-Support Team	
-* Team selection
-* Administration Training	Train personnel on LMS administration
+![High Level Requirement](https://github.com/Akanksha69/E-Learnig/blob/a746efe545eb77282df1ac0c6d24ecc3253070c3/Requirements/High%20Level%20Requirement.png)
 
 
 ## Low level requirement
